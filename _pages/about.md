@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am currently a Phd student at Department of Computing, The Hong Kong Polytechnic University, supervised by <a href="https://www4.comp.polyu.edu.hk/~csjcao/#">Prof. Jiannong Cao</a>. I got double bachelor’s degree in September 2018 from the Department of Mathematics and the Department of Computing, Shenzhen University. After that, I obtained my master's degree in September 2019 from the School of Design, The Hong Kong Polytechnic University.
+Hi! I am currently a Phd student at Department of Computing, The Hong Kong Polytechnic University, supervised by <a href="https://www4.comp.polyu.edu.hk/~csjcao/#">Prof. Jiannong Cao</a>. I got double bachelor’s degree in September 2018 from the Department of Mathematics and the Department of Computing, Shenzhen University. After that, I obtained my master's degree in September 2019 from the School of Design (advised by <a href="https://research.vu.nl/en/persons/johan-hoorn">Prof.Johan Ferdinand Hoorn</a>), The Hong Kong Polytechnic University.
 
 My research interest broadly lies in advanced reinforcemen learning theory and algorithms on decision making as well as their promising applications on autonomous vehicles and robotics. Specifically, I pay much attention to bridging the complex and intractable sim-to-real gaps that potentially deteriorate RL policies, seeking more practical solutions for real-world deployment.
 
@@ -58,6 +58,7 @@ My research interest broadly lies in advanced reinforcemen learning theory and a
 - Wei Li, Linchuan Xu, **Zhixuan Liang**, Senzhang Wang, Jiannong Cao, Thomas C Lam, Xiaohui Cui [JDGAN: Enhancing Generator on Extremely Limited Data via Joint Distribution](https://www.sciencedirect.com/science/article/abs/pii/S0925231220318828), *Neurocomputing*, 2021.
 - Wei Li, Linchuan Xu, **Zhixuan Liang**, Senzhang Wang, Jiannong Cao, Chao Ma, Xiaohui Cui [Sketch-then-Edit Generative Adversarial Network](https://www.sciencedirect.com/science/article/abs/pii/S0950705120303701), *Knowledge-Based Systems*, 2021.
 - Jinlin Chen, Jiannong Cao, **Zhixuan Liang**, Zhiqin Cheng, Jia Wang GraphWare: A Graph-based Middelware Enabling Multi-robot Cooperation, *Concurrency and Computation: Practice and Experience*, 2021.
+- Yunfei (Euphie) Duan, Myung (Ji) Yoon, Zhixuan Liang, Johan Ferdinand Hoorn, "Self-Disclosure to a Robot: Only for Those Who Suffer the Most", 2020
 
 # 🎖 Honors and Awards
 - **Silver medal** at 2021 China (Shanghai) International Innovation and Invention Exhibition (2021)
