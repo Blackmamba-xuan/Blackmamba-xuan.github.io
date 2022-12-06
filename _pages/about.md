@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am currently a phd student at Department of Computing, The Hong Kong Polytechnic University, supervised by <a href="https://www4.comp.polyu.edu.hk/~csjcao/#">Prof. Jiannong Cao</a>. I got double bachelor’s degree in September 2018 from the Department of Mathematics and the Department of Computing, Shenzhen University. After that, I obtained my master's degree in September 2019 from the School of Design, The Hong Kong Polytechnic University.
+Hi! I am currently a Phd student at Department of Computing, The Hong Kong Polytechnic University, supervised by <a href="https://www4.comp.polyu.edu.hk/~csjcao/#">Prof. Jiannong Cao</a>. I got double bachelor’s degree in September 2018 from the Department of Mathematics and the Department of Computing, Shenzhen University. After that, I obtained my master's degree in September 2019 from the School of Design, The Hong Kong Polytechnic University.
 
-My research interest broadly lies in advanced reinforcemen learning theory and algorithms on decision making as well as their promising applications on autonomous vehicles and robotics. However, over recent years, criticism against RL continues to pour regarding its limited real-world applicability. Specifically, I therefore pay much attention to bridging the complex and intractable sim-to-real gaps that potentially deteriorate RL policies, seeking more practical solutions for real-world deployment.
+My research interest broadly lies in advanced reinforcemen learning theory and algorithms on decision making as well as their promising applications on autonomous vehicles and robotics. Specifically, I pay much attention to bridging the complex and intractable sim-to-real gaps that potentially deteriorate RL policies, seeking more practical solutions for real-world deployment.
 
 
 
@@ -48,9 +48,9 @@ My research interest broadly lies in advanced reinforcemen learning theory and a
 - **Zhiuxan Liang**, Jiannong Cao, Shan Jiang, Divya Saxena, Jinlin Chen, Huafeng Xu, [From Multi-agent to Multi-robot: A Scalable Training and Evaluation Platform for Multi-robot Reinforcement Learning](https://arxiv.org/abs/2206.09590), *Under Review*, 2022.
 
 ## Conference Papers
-- **Zhixuan Liang**, Jiannong Cao, Shan Jiang, Divya Saxena, Huafeng Xu, [Hierarchical Reinforcement Learning with Opponent Modeling for Distributed Multi-agent Cooperation](https://arxiv.org/abs/2206.12718), *ICDCS*, 2022.
-- **Zhixuan Liang**, Zhixuan Liang, Jiannong Cao, Wanyu Lin, Jinlin Chen, Huafeng Xu, [Hierarchical Deep Reinforcement Learning for Multi-robot Cooperation in Partially Observable Environment](https://arxiv.org/abs/2206.12718), *CogMI*, 2022.
-- **Hua Zheng**, Zhixuan Liang, Feng Tian, Zhong Ming, "NMF-BASED COMPREHENSIVE LATENT FACTOR LEARNING WITH MULTIVIEW DATA", **ICIP**,2019
+- **Zhixuan Liang**, Jiannong Cao, Shan Jiang, Divya Saxena, Huafeng Xu, [Hierarchical Reinforcement Learning with Opponent Modeling for Distributed Multi-agent Cooperation](https://arxiv.org/abs/2206.12718), **ICDCS**, 2022.
+- **Zhixuan Liang**, Zhixuan Liang, Jiannong Cao, Wanyu Lin, Jinlin Chen, Huafeng Xu, [Hierarchical Deep Reinforcement Learning for Multi-robot Cooperation in Partially Observable Environment](https://arxiv.org/abs/2206.12718), **CogMI**, 2022.
+- Hua Zheng, **Zhixuan Liang**, Feng Tian, Zhong Ming, "NMF-BASED COMPREHENSIVE LATENT FACTOR LEARNING WITH MULTIVIEW DATA", **ICIP**,2019
 - **Zhixuan Liang**, Zehao Tan, Zhenyue Zhuo, Xi Zhang, "A Hybrid Music Recommendation System Based on Scene-State Perception Model", **SmartCom**, 2017
 
 
@@ -60,16 +60,31 @@ My research interest broadly lies in advanced reinforcemen learning theory and a
 - Jinlin Chen, Jiannong Cao, **Zhixuan Liang**, Zhiqin Cheng, Jia Wang GraphWare: A Graph-based Middelware Enabling Multi-robot Cooperation, *Concurrency and Computation: Practice and Experience*, 2021.
 
 # 🎖 Honors and Awards
-- *Silver medal* at 2021 China (Shanghai) International Innovation and Invention Exhibition (2021)
-- *Winning Prize* in the Challenging Cup for Students Extracurricular Academic & Scientific Technology Competition by Shenzhen University (2017)
-- *Excellent* Project in Guangdong Provincial Undergraduate Training Programs for Innovation and Entrepreneurship (2017)
-- *Third Prize* in the Experiment Project Supported by Innovation Development Fund of Undergraduates of Shenzhen University (2017)
+- **Silver medal** at 2021 China (Shanghai) International Innovation and Invention Exhibition (2021)
+- **Winning Prize** in the Challenging Cup for Students Extracurricular Academic & Scientific Technology Competition by Shenzhen University (2017)
+- **Excellent** Project in Guangdong Provincial Undergraduate Training Programs for Innovation and Entrepreneurship (2017)
+- **Third Prize** in the Experiment Project Supported by Innovation Development Fund of Undergraduates of Shenzhen University (2017)
 
 # 📖 Educations
-- *2020.01 - now*, Phd student in Artifical Intelligence, Department of Computing, The Hong Kong Polytechnic University.  
-- *2018.09 - 2019.09*, Msc in Multimedia & Entertainment Technology, School of Design, The Hong Kong Polytechnic University
-- *2014.09 - 2018.09*, 2014.09–2018.06 BS in Computing Science, Department of Computing, Shenzhen University
-- *2014.09 - 2018.09*,  BS in Information and Computing Science, Department of Mathematics, Shenzhen University
+- **2020.01 - now**, Phd student in Artifical Intelligence, **Department of Computing**, The Hong Kong Polytechnic University.  
+- **2018.09 - 2019.09**, Msc in Multimedia & Entertainment Technology, **School of Design**, The Hong Kong Polytechnic University
+- **2014.09 - 2018.09**, BS in Computing Science, **Department of Computing**, Shenzhen University
+- **2014.09 - 2018.09**,  BS in Information and Computing Science, **Department of Mathematics**, Shenzhen University
+
+# Patents
+- Huafeng Xu, Jiannong Cao, Wentao Sun, **Zhixuan Liang**, Jinlin Chen, Zhiqin Cheng, "A modular soft robot for pipeline defect detection", March 2022, Patent No. 202210253052.4
+- Jinlin Chen, Jiannong Cao, Jia Wang, **Zhixuan Liang**, "A cooperative learning method, system and terminal for language model of interactive robot", 
+
+# Opeon-source Projects
+- [MRST: A Scalable Training School for Multi-robot Reinforcement Learning](https://github.com/Blackmamba-xuan/MRST), 2022
+- [SchoolNews-Retreival](https://github.com/Blackmamba-xuan/SchoolNews-Retreival), 2017
+- [QT-QQ](https://github.com/Blackmamba-xuan/QtQQ), 2016
+
+# Demos
+- [Edge AI-empowered Robots for Autonomous In-pipe Inspection](https://www.youtube.com/watch?v=MruTKKZXYP0), 2022
+- [Multi-vehicle Cooperation](https://www.youtube.com/watch?v=twXeOgdj6Jw&t=61s), 2021
+
+
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
