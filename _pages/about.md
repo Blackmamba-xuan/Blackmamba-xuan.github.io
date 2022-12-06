@@ -30,7 +30,7 @@ My research interest broadly lies in advanced reinforcemen learning theory and a
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDCS 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDCS 2022</div><img src='images/ICDCS.jpg' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Hierarchical Reinforcement Learning with Opponent Modeling for Distributed Multi-agent Cooperation](https://arxiv.org/abs/2206.12718)
