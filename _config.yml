@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Edison Liang"
-description              : "Phd Candidate at Department of Computing, The Hong Kong Polytechnic University. Focusing on Distributed Reinforcement Learning, Robotics and Autonmous Vehicles."
+description              : "Phd Student at Department of Computing, The Hong Kong Polytechnic University. Focusing on Distributed Reinforcement Learning, Robotics and Autonmous Vehicles."
 repository               : "Blackmamba-xuan/Blackmamba-xuan.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Edison Liang"
   avatar           : "images/profile_photo.jpg"
-  bio              : "The Hong Kong Polytechnic University (PolyU)"
+  bio              : "A cool guy."
   location         : "Hongkong"
   employer         :
   pubmed           : 
